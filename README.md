@@ -1,4 +1,4 @@
-# **seq2seq For Crypto Price Prediction**  
+# **Transformer For Crypto Price Prediction**  
 _Transformer model for forecasting the closing price of seven major cryptocurrencies using recent temporal windows._
 
 ---
